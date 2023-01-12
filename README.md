@@ -1,4 +1,5 @@
 ### Hi there, Im Indigo 👋
+![octocat-200](https://user-images.githubusercontent.com/117922498/212075161-807c2984-3a1c-452d-9678-60cb0e23e486.png)
 
 
 - 🔭 I’m currently working on: 
