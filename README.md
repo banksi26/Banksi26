@@ -3,4 +3,4 @@
 - 📫 How to reach me: banksi26@wpsma.org
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I know how to drive a manual transmission car
-## [💬 View my work](https://banksi26.github.io/Portfolio/)
+## [View my work](https://banksi26.github.io/Portfolio/)
