@@ -4,4 +4,8 @@
 - How to reach me: banksi26@wpsma.org
 - Pronouns: He / Him
 - Fun fact: I know how to drive stick shift
-## [View my 2022-2023 Portfolio](https://banksi26.github.io/Portfolio/index.html)
+## [2022-2023 Portfolio](https://banksi26.github.io/Portfolio/index.html)
+
+## 2023 - 2024 work below
+
+[scene with text](https://studio.code.org/projects/gamelab/RW679yGDC5QFUB-4S6a6JLQoFweXMgJt9mvI-2Jwu7g)
