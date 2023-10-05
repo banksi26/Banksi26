@@ -1,5 +1,5 @@
 ### Hi there, Im Indigo 👋
-![octocat-200](https://user-images.githubusercontent.com/117922498/212075161-807c2984-3a1c-452d-9678-60cb0e23e486.png)
+![octocat-100](https://github.com/banksi26/Banksi26/assets/117922498/b28b894f-f9cd-470c-acac-00667baf18f0)
 - I am currently a Sophmore in High School
 - How to reach me: banksi26@wpsma.org
 - Pronouns: He / Him
@@ -11,3 +11,4 @@
 
 ### [Scene With Text](https://studio.code.org/projects/gamelab/RW679yGDC5QFUB-4S6a6JLQoFweXMgJt9mvI-2Jwu7g)
 A scene that involves a few sprites, some text, and some shapes.
+
