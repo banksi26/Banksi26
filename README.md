@@ -11,8 +11,20 @@
 
 ### Code.org GameLab
 
-[Captioned Scene](https://studio.code.org/projects/gamelab/RW679yGDC5QFUB-4S6a6JLQoFweXMgJt9mvI-2Jwu7g)
-A scene that involves a few sprites, some text, and some shapes.
+#### [Captioned Scene](https://studio.code.org/projects/gamelab/RW679yGDC5QFUB-4S6a6JLQoFweXMgJt9mvI-2Jwu7g)
+> A scene that involves a few sprites, some text, and some shapes.
 
 #### [Robot Face](https://banksi26.github.io/Robot-face/)
-A Robot face made of multiple different colors and shapes, that change everytime the page is loaded.
+> A Robot face made of multiple different colors and shapes, that change everytime the page is loaded.
+
+#### [Animation]
+>
+#### [Interactive Card]
+>
+#### [Side Scroller]
+>
+#### [Flyer Game]
+>
+#### [Project - Design a Game]
+>
+
