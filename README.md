@@ -3,6 +3,7 @@
 - I am currently a Sophmore in High School
 - How to reach me: banksi26@wpsma.org
 - Pronouns: He / Him
+- I like cars, and video games
 - Fun fact: I know how to drive stick shift
 ## [2022 - 2023 Portfolio website](https://banksi26.github.io/Portfolio/index.html)
 
