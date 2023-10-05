@@ -11,7 +11,7 @@
 
 ### Code.org GameLab
 
-#### [Captioned Scene](https://studio.code.org/projects/gamelab/RW679yGDC5QFUB-4S6a6JLQoFweXMgJt9mvI-2Jwu7g)
+[Captioned Scene](https://studio.code.org/projects/gamelab/RW679yGDC5QFUB-4S6a6JLQoFweXMgJt9mvI-2Jwu7g)
 A scene that involves a few sprites, some text, and some shapes.
 
 #### [Robot Face](https://banksi26.github.io/Robot-face/)
