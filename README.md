@@ -8,4 +8,5 @@
 
 ## 2023 - 2024 work below
 
-[scene with text](https://studio.code.org/projects/gamelab/RW679yGDC5QFUB-4S6a6JLQoFweXMgJt9mvI-2Jwu7g)
+# [Scene With Text](https://studio.code.org/projects/gamelab/RW679yGDC5QFUB-4S6a6JLQoFweXMgJt9mvI-2Jwu7g)
+A scene that involves a few sprites, some text, and some shapes.
