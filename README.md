@@ -19,8 +19,8 @@
 
 #### [Animation]
 >
-#### [Interactive Card]
->
+#### [Interactive Card](https://studio.code.org/projects/gamelab/zbn9RxdcyqCilc1TvCYaKTtfyVQwyanVzUZquiRI2v0)
+> A fun card that you can interact with.
 #### [Side Scroller]
 >
 #### [Flyer Game]
