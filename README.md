@@ -17,6 +17,9 @@
 #### [Robot Face](https://banksi26.github.io/Robot-face/)
 > A Robot face made of multiple different colors and shapes, that change everytime the page is loaded.
 
+#### [Side-Scroller-Game](https://studio.code.org/projects/gamelab/voDLZ2EVwLGOCaK_f28AOI11YsFKoaGm6_bhjZFUrqI)
+> A easy side scroller game where you jump to avoid enemies and collect coins.
+
 #### [Animation]
 >
 #### [Interactive Card](https://studio.code.org/projects/gamelab/zbn9RxdcyqCilc1TvCYaKTtfyVQwyanVzUZquiRI2v0)
