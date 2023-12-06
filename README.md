@@ -22,12 +22,13 @@
 
 #### [Animation]
 >
+
 #### [Interactive Card](https://studio.code.org/projects/gamelab/zbn9RxdcyqCilc1TvCYaKTtfyVQwyanVzUZquiRI2v0)
 > A fun card that you can interact with using the arrow keys and mouse.
-#### [Side Scroller]
->
+
 #### [Flyer Game]
 >
-#### [Project - Design a Game]
->
+
+#### [Final Project](https://studio.code.org/projects/gamelab/-Gj-iqoMmOqFGFaoFZOUtfuZNWfJWa-azPmDaFQ0K-w)
+> My final project using code.org's gamelab
 
