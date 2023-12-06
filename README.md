@@ -20,14 +20,11 @@
 #### [Side-Scroller-Game](https://studio.code.org/projects/gamelab/voDLZ2EVwLGOCaK_f28AOI11YsFKoaGm6_bhjZFUrqI)
 > A easy side scroller game where you jump to avoid enemies and collect coins.
 
-#### [Animation]
->
-
 #### [Interactive Card](https://studio.code.org/projects/gamelab/zbn9RxdcyqCilc1TvCYaKTtfyVQwyanVzUZquiRI2v0)
 > A fun card that you can interact with using the arrow keys and mouse.
 
-#### [Flyer Game]
->
+#### [Flyer Game](https://studio.code.org/projects/gamelab/WyKQ2OHPNAnxSOwolkojY0twAfWwLj2Y4MpJsN22s3k)
+> A game where you fly around and try to avoid obstacles, while collecting coins.
 
 #### [Final Project](https://studio.code.org/projects/gamelab/-Gj-iqoMmOqFGFaoFZOUtfuZNWfJWa-azPmDaFQ0K-w)
 > My final project using code.org's gamelab
