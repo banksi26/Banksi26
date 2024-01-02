@@ -26,7 +26,7 @@
 #### [Flyer Game](https://studio.code.org/projects/gamelab/WyKQ2OHPNAnxSOwolkojY0twAfWwLj2Y4MpJsN22s3k)
 > A game where you fly around and try to avoid obstacles, while collecting coins.
 
-#### [Final Project](https://studio.code.org/projects/gamelab/-Gj-iqoMmOqFGFaoFZOUtfuZNWfJWa-azPmDaFQ0K-w)
+#### [Final GameLab Project](https://studio.code.org/projects/gamelab/-Gj-iqoMmOqFGFaoFZOUtfuZNWfJWa-azPmDaFQ0K-w)
 > My final project using code.org's gamelab.
 
 #### [Find The Gold](https://ai2.appinventor.mit.edu/#5560083112919040)
