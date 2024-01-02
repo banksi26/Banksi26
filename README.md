@@ -27,5 +27,8 @@
 > A game where you fly around and try to avoid obstacles, while collecting coins.
 
 #### [Final Project](https://studio.code.org/projects/gamelab/-Gj-iqoMmOqFGFaoFZOUtfuZNWfJWa-azPmDaFQ0K-w)
-> My final project using code.org's gamelab
+> My final project using code.org's gamelab.
+
+#### [Find The Gold](https://ai2.appinventor.mit.edu/#5560083112919040)
+> A interactive game where you use motion controls to reach the gold.
 
