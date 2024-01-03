@@ -32,3 +32,5 @@
 #### [Find The Gold](https://ai2.appinventor.mit.edu/#5560083112919040)
 > A interactive game where you use motion controls to reach the gold.
 
+#### [Fling Game](https://ai2.appinventor.mit.edu/#5436261806243840)
+> A game where you fling a ball around and collect items to raise your score.
