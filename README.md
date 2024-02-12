@@ -37,5 +37,5 @@
 
 ### Academy.cs / Python
 
-####[Creative Task](https://academy.cs.cmu.edu/sharing/fireBrickLion7770)
+#### [Creative Task](https://academy.cs.cmu.edu/sharing/fireBrickLion7770)
 > A task where we were challenged to use all of our current knowledge in python to create a custom image
