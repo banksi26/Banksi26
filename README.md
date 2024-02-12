@@ -34,3 +34,8 @@
 
 #### [Fling Game](https://ai2.appinventor.mit.edu/#5436261806243840)
 > A game where you fling a ball around and collect items to raise your score.
+
+### Academy.cs / Python
+
+####[Creative Task](https://academy.cs.cmu.edu/sharing/fireBrickLion7770)
+> A task where we were challenged to use all of our current knowledge in python to create a custom image
