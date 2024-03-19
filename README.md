@@ -29,11 +29,22 @@
 #### [Final GameLab Project](https://studio.code.org/projects/gamelab/-Gj-iqoMmOqFGFaoFZOUtfuZNWfJWa-azPmDaFQ0K-w)
 > My final project using code.org's gamelab.
 
+### App Inventor
+
+#### [Hello its me](https://ai2.appinventor.mit.edu/#5244588203573248)
+> A interactive app where you press images and noises happen
+
 #### [Find The Gold](https://ai2.appinventor.mit.edu/#5560083112919040)
 > A interactive game where you use motion controls to reach the gold.
 
 #### [Fling Game](https://ai2.appinventor.mit.edu/#5436261806243840)
 > A game where you fling a ball around and collect items to raise your score.
+
+#### [Music Maker](https://ai2.appinventor.mit.edu/#6218317100351488)
+> A app where you press buttons to make music
+
+#### [Piano](https://ai2.appinventor.mit.edu/#6318824015921152)
+>A app where you can play the piano
 
 ### Academy.cs / Python
 
