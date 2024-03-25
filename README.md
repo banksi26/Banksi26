@@ -53,3 +53,6 @@
 
 #### [Creative Task 2](https://academy.cs.cmu.edu/sharing/steelBlueDuck8724)
 > A task where we were challenged to use all of our current knowledge in python to create a custom image
+
+#### [Creative Task 3](https://academy.cs.cmu.edu/sharing/floralWhiteSquirrel3850)
+> A task where we were challenged to use all of our current knowledge in python to create a custom image
